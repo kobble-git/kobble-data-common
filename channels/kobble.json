@@ -7,8 +7,8 @@
   "title":"kobble",
   "tracks":[],
   "trackDesc":[
-    {"name":"Hot", "desc":"Best Channels and Tracks"},
-    {"name":"Search Channels", "desc":"Search Channels"},
-    {"name":"Search Tracks", "desc":"Search Tracks"}
+    {"name":"Hot", "desc":"Top Content"},
+    {"name":"Search Tracks", "desc":"Search Tracks"},
+    {"name":"Search Channels", "desc":"Search Channels"}
   ]
 }
