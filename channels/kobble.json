@@ -7,7 +7,6 @@
   "title":"kobble",
   "tracks":[],
   "trackDesc":[
-    {"name":"search"},
-    {"desc":"Search Kobble"}
+    {"name":"search", "desc":"Search Kobble"}
   ]
 }
