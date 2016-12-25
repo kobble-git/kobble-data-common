@@ -1,8 +1,6 @@
 {
-  "id":"id",
   "sha":"sha",
-  "desc":"kobble common channels",
-  "id":"",
+  "desc":"Common Kobble Channels",
   "tags":["kobble"],
   "title":"kobble",
   "trackDesc":[
