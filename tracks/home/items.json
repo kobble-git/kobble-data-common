@@ -10,6 +10,16 @@
     }
   },
   {
+    "name" : "test",
+    "desc" : "Test Folder",
+    "view" : "TrackView",
+    "spec" : {
+      "owner" : "kobble-git",
+      "repo" : "kobble-data-common",
+      "path" : "tracks/home/test"
+    }
+  },
+  {
     "name" : "Contact",
     "desc" : "Contact Kobble",
     "view" : "MarkdownView",
