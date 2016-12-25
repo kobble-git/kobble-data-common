@@ -10,8 +10,13 @@
     }
   },
   {
-    "name" : "Search",
-    "desc" : "Kobble Search",
-    "view" : "SearchView"
+    "name" : "Contact",
+    "desc" : "Contact Kobble",
+    "view" : "MarkdownView",
+    "spec" : {
+      "owner" : "kobble-git",
+      "repo" : "kobble-data-common",
+      "path" : "markdown/home/contact.md"
+    }
   }
 ]
