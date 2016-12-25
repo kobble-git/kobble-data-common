@@ -3,33 +3,21 @@
   "desc":"Common Kobble Channels",
   "tags":["kobble"],
   "title":"kobble",
-  "trackDesc":[
+  "tracks":[
     {
-      "name":"Hot", 
-      "desc":"Top Content", 
-      "track":{
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "tracks/hot.json"
-      }
+      "owner" : "kobble-git",
+      "repo" : "kobble-data-common",
+      "path" : "tracks/hot"
     },
     {
-      "name":"Home", 
-      "desc":"Kobble Home", 
-      "track":{
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "tracks/home.json"
-      }
+      "owner" : "kobble-git",
+      "repo" : "kobble-data-common",
+      "path" : "tracks/home"
     },
     {
-      "name":"Search", 
-      "desc":"Kobble Search", 
-      "track":{
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "tracks/search.json"
-      }
+      "owner" : "kobble-git",
+      "repo" : "kobble-data-common",
+      "path" : "tracks/search"
     }
   ]
 }
