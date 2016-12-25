@@ -1,1 +1,12 @@
-
+[
+  {
+    "name" : "Test",
+    "desc" : "Kobble Test Page",
+    "view" : "MarkdownView",
+    "spec" : {
+      "owner" : "kobble-git",
+      "repo" : "kobble-data-common",
+      "path" : "markdown/home/test/test.md"
+    }
+  }
+]
