@@ -5,7 +5,6 @@
   "id":"",
   "tags":["kobble"],
   "title":"kobble",
-  "tracks":[],
   "trackDesc":[
     {
       "name":"Hot", 
@@ -14,6 +13,15 @@
         "owner" : "kobble-git",
         "repo" : "kobble-data-common",
         "path" : "tracks/hot.json"
+      }
+    },
+    {
+      "name":"Home", 
+      "desc":"Kobble Home", 
+      "track":{
+        "owner" : "kobble-git",
+        "repo" : "kobble-data-common",
+        "path" : "tracks/home.json"
       }
     },
     {
