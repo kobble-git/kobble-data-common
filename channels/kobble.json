@@ -7,8 +7,23 @@
   "title":"kobble",
   "tracks":[],
   "trackDesc":[
-    {"name":"Hot", "desc":"Top Content"},
-    {"name":"Search Tracks", "desc":"Search Tracks"},
-    {"name":"Search Channels", "desc":"Search Channels"}
+    {
+      "name":"Hot", 
+      "desc":"Top Content", 
+      "track":{
+        "owner" : "kobble-git",
+        "repo" : "kobble-data-common",
+        "path" : "tracks/hot.json"
+      }
+    },
+    {
+      "name":"Search", 
+      "desc":"Kobble Search", 
+      "track":{
+        "owner" : "kobble-git",
+        "repo" : "kobble-data-common",
+        "path" : "tracks/search.json"
+      }
+    }
   ]
 }
