@@ -5,19 +5,29 @@
   "title":"kobble",
   "tracks":[
     {
-      "owner" : "kobble-git",
-      "repo" : "kobble-data-common",
-      "path" : "tracks/hot"
+      "name" : "What's Hot",
+      "desc" : "What's hot on Kobble",
+      "track" : {
+        "owner" : "kobble-git",
+        "repo" : "kobble-data-common",
+        "path" : "tracks/hot"
+      }
     },
-    {
-      "owner" : "kobble-git",
-      "repo" : "kobble-data-common",
-      "path" : "tracks/home"
+      "name" : "Home",
+      "desc" : "Home",
+      "track" : {
+        "owner" : "kobble-git",
+        "repo" : "kobble-data-common",
+        "path" : "tracks/home"
+      }
     },
-    {
-      "owner" : "kobble-git",
-      "repo" : "kobble-data-common",
-      "path" : "tracks/search"
+      "name" : "Search",
+      "desc" : "Search Kobble",
+      "track" :     {
+        "owner" : "kobble-git",
+        "repo" : "kobble-data-common",
+        "path" : "tracks/search"
+      }
     }
   ]
 }
