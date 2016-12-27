@@ -1,34 +1,11 @@
 {
   "items" : [
     {
-      "name" : "Home",
-      "desc" : "Kobble Home Page",
-      "view" : "MarkdownView",
-      "spec" : {
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "markdown/home/home.md"
-      }
-    },
-    {
-      "name" : "test",
-      "desc" : "Test Folder",
-      "view" : "TrackView",
-      "spec" : {
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "tracks/home/test"
-      }
-    },
-    {
-      "name" : "Contact",
-      "desc" : "Contact Kobble",
-      "view" : "MarkdownView",
-      "spec" : {
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "markdown/home/contact.md"
-      }
-    }
+      "data": {"tag":"UI.Track.UrlD","contents":{"url":"dummy"}},
+      "desc":"",
+      "name":"",
+      "path":"",
+      "view":{"tag":"UI.ContentViews.ContentConfig.WebView"}
+    }  
   ]
 }
