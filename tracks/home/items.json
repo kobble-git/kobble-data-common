@@ -1,11 +1,11 @@
 {
   "items" : [
     {
-      "data": {"tag":"UI.Track.UrlD","contents":{"url":"dummy"}},
-      "desc":"",
-      "name":"",
+      "data":{"tag":"UI.Track.NoData"},
+      "desc":"Kobble Home",
+      "name":"Kobble Home",
       "path":"",
-      "view":{"tag":"UI.ContentViews.ContentConfig.WebView"}
-    }  
+      "view":{"tag":"UI.ContentViews.Views.HomeView"}
+    }
   ]
 }
