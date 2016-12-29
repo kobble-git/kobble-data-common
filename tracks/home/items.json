@@ -6,6 +6,13 @@
       "name":"Kobble Home",
       "path":"",
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
+    },
+    {
+      "data":{"tag":"UI.Track.NoData"},
+      "desc":"Contact Kobble",
+      "name":"Contact",
+      "path":"",
+      "view":{"tag":"UI.ContentViews.Views.ContactView"}
     }
   ]
 }
