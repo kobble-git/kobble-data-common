@@ -5,7 +5,21 @@
       "desc":"Kobble Search",
       "name":"Kobble Search",
       "path":"",
+      "view":{"tag":"UI.ContentViews.Views.HomeView"}
+    },
+    {
+      "data":{"tag":"UI.Track.NoData"},
+      "desc":"Tracks",
+      "name":"tracks",
+      "path":"",
       "view":{"tag":"UI.ContentViews.Views.FolderView"}
+    },
+    {
+      "data":{"tag":"UI.Track.NoData"},
+      "desc":"Kobble Search Tracks",
+      "name":"Kobble Search Tracks",
+      "path":"tracks",
+      "view":{"tag":"UI.ContentViews.Views.HomeView"}
     }
   ]
 }
