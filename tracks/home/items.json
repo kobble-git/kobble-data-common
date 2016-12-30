@@ -4,14 +4,14 @@
       "data":{"tag":"UI.Track.NoData"},
       "desc":"Kobble Home",
       "name":"Kobble Home",
-      "path":"",
+      "path":[],
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     },
     {
       "data":{"tag":"UI.Track.NoData"},
       "desc":"Contact Kobble",
       "name":"Contact",
-      "path":"",
+      "path":[],
       "view":{"tag":"UI.ContentViews.Views.ContactView"}
     }
   ]
