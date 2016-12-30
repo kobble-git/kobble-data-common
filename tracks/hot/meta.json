@@ -1,0 +1,10 @@
+{
+  "tags" : [],
+  "name" : "home",
+  "desc" : "Kobble Hot",
+  "page" : {
+    "owner" : "kobble-git",
+    "repo" : "kobble-data-common",
+    "path" : "markdown/hotTrack.md"
+   }
+}
