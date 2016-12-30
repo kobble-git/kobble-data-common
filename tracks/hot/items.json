@@ -4,7 +4,7 @@
       "data":{"tag":"UI.Track.NoData"},
       "desc":"Kobble Hot",
       "name":"Kobble Hot",
-      "path":"",
+      "path":[],
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     }
   ]
