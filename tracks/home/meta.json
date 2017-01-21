@@ -1,7 +1,7 @@
 {
   "tags" : [],
-  "name" : "home",
-  "desc" : "Kobble Home",
+  "title" : "home",
+  "subtitle" : "Kobble Home",
   "page" : {
     "owner" : "kobble-git",
     "repo" : "kobble-data-common",
