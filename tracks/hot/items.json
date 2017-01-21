@@ -34,7 +34,7 @@
       "path":[3],
       "view":{"tag":"UI.ContentViews.Views.HomeView"},
       "children" : [],
-      "expanded" false
+      "expanded" : false
     }
   ]
 }
