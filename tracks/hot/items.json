@@ -1,10 +1,11 @@
 {
   "items":[
-    {"data": {"tag":"UI.Track.NoData"},
-     "subtitle":"Test Folder",
-     "title":"test",
-     "path":[1],
-     "view":{"tag":"UI.ContentViews.Views.FolderView"}
+    {
+      "data": {"tag":"UI.Track.NoData"},
+      "subtitle":"Test Folder",
+      "title":"test",
+      "path":[1],
+      "view":{"tag":"UI.ContentViews.Views.FolderView"}
     },
     {
       "data":{
