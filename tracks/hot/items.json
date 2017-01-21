@@ -5,7 +5,8 @@
       "subtitle":"Test Folder",
       "title":"test",
       "path":[1],
-      "view":{"tag":"UI.ContentViews.Views.FolderView"}
+      "view":{"tag":"UI.ContentViews.Views.FolderView"},
+      "children" : []
     },
     {
       "data":{
@@ -21,14 +22,16 @@
       "subtitle":"Markdown File",
       "title":"Test 1",
       "path":[2],
-      "view":{"tag":"UI.ContentViews.Views.MarkdownView"}
+      "view":{"tag":"UI.ContentViews.Views.MarkdownView"},
+      "children" : []
     },
     {
       "data":{"tag":"UI.Track.NoData"},
       "subtitle":"Kobble Hot",
       "title":"Kobble Hot",
       "path":[3],
-      "view":{"tag":"UI.ContentViews.Views.HomeView"}
+      "view":{"tag":"UI.ContentViews.Views.HomeView"},
+      "children" : []
     }
   ]
 }
