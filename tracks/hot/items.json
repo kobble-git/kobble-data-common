@@ -20,7 +20,8 @@
       "subtitle":"Markdown File",
       "title":"Test 1",
       "path":[2],
-      "view":{"tag":"UI.ContentViews.Views.MarkdownView"}},
+      "view":{"tag":"UI.ContentViews.Views.MarkdownView"}
+    },
     {
       "data":{"tag":"UI.Track.NoData"},
       "subtitle":"Kobble Hot",
