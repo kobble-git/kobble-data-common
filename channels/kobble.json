@@ -1,12 +1,13 @@
 {
-  "id":"kobble-git-common-kobble",
-  "desc":"Common Kobble Channels",
+  "subtitle":"Common Kobble Channels",
   "tags":["kobble"],
   "title":"kobble",
   "tracks":[
     {
-      "name" : "What's Hot",
-      "desc" : "What's hot on Kobble",
+      "title" : "What's Hot",
+      "subtitle" : "What's hot on Kobble",
+      "expanded" : false,
+      "path" : [1],
       "track" : {
         "owner" : "kobble-git",
         "repo" : "kobble-data-common",
@@ -14,8 +15,10 @@
       }
     },
     {
-      "name" : "Home",
-      "desc" : "Home",
+      "title" : "Home",
+      "subtitle" : "Home",
+      "expanded" : false,
+      "path" : [2],
       "track" : {
         "owner" : "kobble-git",
         "repo" : "kobble-data-common",
@@ -23,8 +26,10 @@
       }
     },
     {
-      "name" : "Search",
-      "desc" : "Search Kobble",
+      "title" : "Search",
+      "subtitle" : "Search Kobble",
+      "expanded" : false,
+      "path" : [3],
       "track" :     {
         "owner" : "kobble-git",
         "repo" : "kobble-data-common",
