@@ -5,7 +5,7 @@
       "subtitle":"Kobble Home",
       "title":"Kobble Home",
       "expanded" : false,
-      "path":[1,1],
+      "path":[1],
       "children" : [],
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     },
@@ -14,7 +14,7 @@
       "subtitle":"Contact Kobble",
       "title":"Contact",
       "expanded":false,
-      "path":[1,2],
+      "path":[2],
       "children" : [],
       "view":{"tag":"UI.ContentViews.Views.ContactView"}
     }
