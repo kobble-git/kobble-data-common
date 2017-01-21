@@ -6,7 +6,8 @@
       "title":"test",
       "path":[1],
       "view":{"tag":"UI.ContentViews.Views.FolderView"},
-      "children" : []
+      "children" : [],
+      "expanded" : false
     },
     {
       "data":{
@@ -23,7 +24,8 @@
       "title":"Test 1",
       "path":[2],
       "view":{"tag":"UI.ContentViews.Views.MarkdownView"},
-      "children" : []
+      "children" : [],
+      "expanded" : false
     },
     {
       "data":{"tag":"UI.Track.NoData"},
@@ -31,7 +33,8 @@
       "title":"Kobble Hot",
       "path":[3],
       "view":{"tag":"UI.ContentViews.Views.HomeView"},
-      "children" : []
+      "children" : [],
+      "expanded" false
     }
   ]
 }
