@@ -2,16 +2,20 @@
   "items" : [
     {
       "data":{"tag":"UI.Track.NoData"},
-      "desc":"Kobble Home",
-      "name":"Kobble Home",
-      "path":[],
+      "subtitle":"Kobble Home",
+      "title":"Kobble Home",
+      "expanded" : false,
+      "path":[1,1],
+      "children" : [],
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     },
     {
       "data":{"tag":"UI.Track.NoData"},
-      "desc":"Contact Kobble",
-      "name":"Contact",
-      "path":[],
+      "subtitle":"Contact Kobble",
+      "title":"Contact",
+      "expanded":false,
+      "path":[1,2],
+      "children" : [],
       "view":{"tag":"UI.ContentViews.Views.ContactView"}
     }
   ]
