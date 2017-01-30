@@ -1,11 +1,11 @@
 {
-  "subtitle":"Common Kobble Channels",
-  "tags":["kobble"],
   "title":"kobble",
+  "subtitle":"Kobble Base Tracks",
+  "tags":["kobble"],
   "tracks":[
     {
       "title" : "What's Hot",
-      "subtitle" : "What's hot on Kobble",
+      "subtitle" : "What's Hot on Kobble",
       "expanded" : false,
       "children" : [],
       "track" : {
