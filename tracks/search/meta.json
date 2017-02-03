@@ -1,7 +1,7 @@
 {
   "tags" : [],
   "title" : "Search",
-  "desc" : "Kobble Search",
+  "subtitle" : "Kobble Search",
   "page" : {
     "owner" : "kobble-git",
     "repo" : "kobble-data-common",
