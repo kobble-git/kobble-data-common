@@ -1,6 +1,6 @@
 {
   "tags" : [],
-  "name" : "home",
+  "title" : "Search",
   "desc" : "Kobble Search",
   "page" : {
     "owner" : "kobble-git",
