@@ -4,12 +4,16 @@
       "data":{"tag":"UI.Track.NoData"},
       "title":"Search Channels",
       "subtitle":"Search Channels",
+      "children": [],
+      "expanded": true,
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     },
     {
       "data":{"tag":"UI.Track.NoData"},
       "title":"Search Tracks",
       "subtitle":"Search Tracks",
+      "children": [],
+      "expanded": true,
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     }
   ]
