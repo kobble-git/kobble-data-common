@@ -2,23 +2,14 @@
   "items" : [
     {
       "data":{"tag":"UI.Track.NoData"},
-      "desc":"Kobble Search",
-      "name":"Kobble Search",
-      "path":[],
+      "title":"Search Channels",
+      "subtitle":"Search Channels",
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     },
     {
       "data":{"tag":"UI.Track.NoData"},
-      "desc":"Tracks",
-      "name":"tracks",
-      "path":[],
-      "view":{"tag":"UI.ContentViews.Views.FolderView"}
-    },
-    {
-      "data":{"tag":"UI.Track.NoData"},
-      "desc":"Kobble Search Tracks",
-      "name":"Kobble Search Tracks",
-      "path":["tracks"],
+      "title":"Search Tracks",
+      "subtitle":"Search Tracks",
       "view":{"tag":"UI.ContentViews.Views.HomeView"}
     }
   ]
