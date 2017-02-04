@@ -20,20 +20,42 @@
       }
     },    
     {
-      "children":[],
-      "data":{"tag":"UI.Track.NoData"},
-      "expanded":true,
-      "subtitle":"Contact Kobble",
-      "title":"Contact",
-      "view":{"tag":"UI.ContentViews.Views.ContactView"}
-    },
+      "children": [],
+      "data": {
+        "tag": "UI.Track.MarkdownD",
+        "contents": {
+          "spec": {
+            "owner": "kobble-git",
+            "path": "content/contact.md",
+            "repo": "kobble-data-common"
+          }
+          }
+        },
+      "expanded": false,
+      "subtitle": "Contact Kobble",
+      "title": "Contact",
+      "view": {
+        "tag": "UI.ContentViews.Views.MarkdownView"
+      }
+    },    
     {
-      "children":[],
-      "data":{"tag":"UI.Track.NoData"},
-      "expanded":false,
-      "subtitle":"Kobble Home",
-      "title":"Kobble Home",
-      "view":{"tag":"UI.ContentViews.Views.HomeView"}
-    }
+      "children": [],
+      "data": {
+        "tag": "UI.Track.MarkdownD",
+        "contents": {
+          "spec": {
+            "owner": "kobble-git",
+            "path": "content/hot.md",
+            "repo": "kobble-data-common"
+          }
+          }
+        },
+      "expanded": false,
+      "subtitle": "What's hot on Kobble",
+      "title": "Hot",
+      "view": {
+        "tag": "UI.ContentViews.Views.MarkdownView"
+      }
+    }    
   ]
 }
