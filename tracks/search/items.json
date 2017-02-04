@@ -2,7 +2,7 @@
   "items" : [
     {
       "data":{"tag":"UI.Track.NoData"},
-      "title":"Search Channels",
+      "title":"Search Channels Update",
       "subtitle":"Search Channels",
       "children": [],
       "expanded": true,
