@@ -4,17 +4,6 @@
   "tags":["kobble"],
   "tracks":[
     {
-      "title" : "What's Hot",
-      "subtitle" : "What's Hot on Kobble",
-      "expanded" : false,
-      "children" : [],
-      "track" : {
-        "owner" : "kobble-git",
-        "repo" : "kobble-data-common",
-        "path" : "tracks/hot"
-      }
-    },
-    {
       "title" : "Home",
       "subtitle" : "Home",
       "expanded" : false,
