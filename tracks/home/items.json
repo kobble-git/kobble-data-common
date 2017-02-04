@@ -1,1 +1,20 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.NoData"},"expanded":true,"path":[2],"subtitle":"Contact Kobble","title":"Contact","view":{"tag":"UI.ContentViews.Views.ContactView"}},{"children":[],"data":{"tag":"UI.Track.NoData"},"expanded":false,"path":[1],"subtitle":"Kobble Home","title":"Kobble Home","view":{"tag":"UI.ContentViews.Views.HomeView"}}]}
+{
+  "items":[
+    {
+      "children":[],
+      "data":{"tag":"UI.Track.NoData"},
+      "expanded":true,
+      "subtitle":"Contact Kobble",
+      "title":"Contact",
+      "view":{"tag":"UI.ContentViews.Views.ContactView"}
+    },
+    {
+      "children":[],
+      "data":{"tag":"UI.Track.NoData"},
+      "expanded":false,
+      "subtitle":"Kobble Home",
+      "title":"Kobble Home",
+      "view":{"tag":"UI.ContentViews.Views.HomeView"}
+    }
+  ]
+}
