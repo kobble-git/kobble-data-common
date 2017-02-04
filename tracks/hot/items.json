@@ -3,29 +3,18 @@
         "children": [{
             "children": [],
             "data": {
-                "tag": "UI.Track.NoData"
-            },
-            "expanded": false,
-            "subtitle": "Kobble Hot",
-            "title": "Kobble Hot",
-            "view": {
-                "tag": "UI.ContentViews.Views.HomeView"
-            }
-        }, {
-            "children": [],
-            "data": {
                 "tag": "UI.Track.MarkdownD",
                 "contents": {
                     "spec": {
                         "owner": "kobble-git",
-                        "path": "content/top.md",
-                        "repo": "kobble-data"
+                        "path": "content/hot.md",
+                        "repo": "kobble-data-common"
                     }
                 }
             },
-            "expanded": true,
-            "subtitle": "top desc",
-            "title": "top",
+            "expanded": false,
+            "subtitle": "What's hot on Kobble",
+            "title": "Hot",
             "view": {
                 "tag": "UI.ContentViews.Views.MarkdownView"
             }
