@@ -1,1 +1,15 @@
-{"page":null,"subtitle":"Kobble Base Tracks","tags":["kobble"],"title":"kobble","tracks":[{"children":[],"expanded":false,"subtitle":"Search Kobble","title":"Search","track":{"owner":"kobble-git","path":"tracks/search","repo":"kobble-data-common"}},{"children":[],"expanded":false,"subtitle":"Home","title":"Home","track":{"owner":"kobble-git","path":"tracks/home","repo":"kobble-data-common"}}]}
+{
+  "page":null,
+  "subtitle":"Kobble Home",
+  "tags":["kobble"],
+  "title":"Kobble",
+  "tracks":[
+    {
+      "children":[],
+      "expanded":false,
+      "subtitle":"Home",
+      "title":"Home",
+      "track":{"owner":"kobble-git","path":"tracks/home","repo":"kobble-data-common"}
+    }
+  ]
+}
