@@ -11,8 +11,8 @@ Kobble is the only app available where you *own* all of your data. (*Click the a
 ::: 
 
 ::: slide
-### Render as Markdown or Presentation
-Your content is created with Markdown. Kobble supports all common markdown formats (CommonMark, Github, ...), along with some advanced extensions. You can view your creations as either normal rendered markdown, or as presentations. This intro is markdown rendered as a presentation. {.left}
+### View Markdown or Presentation
+Your content is created with Markdown. Kobble supports all common markdown formats (CommonMark, Github, ...), along with some advanced extensions. You can view your markdown as either normal rendered markdown, or as presentations. This intro is markdown rendered as a presentation. {.left}
 :::
 
 ::: slide
