@@ -2,7 +2,7 @@
 ### Try Kobble
 With Kobble, you can instantly create and organize beautiful content for a variety of purposes, including notes, blogs, wikis, presentations, slideshows, projects, papers, homework, and more. {.left}
 
-Kobble is the only app available where you *own* all of your data. {.left}
+Kobble is the only app available where you *own* all of your data. (*Click the arrow below to see more.*) {.left}
 :::
 
 ::: slide
@@ -11,8 +11,8 @@ Kobble is the only app available where you *own* all of your data. {.left}
 ::: 
 
 ::: slide
-### Markdown and Reveal
-Your content is created with Markdown, so it's easy to create and repurpose as you see fit. Kobble supports all common markdown formats (CommonMark, Github, ...), along with some advanced extensions. You can view your creations as either normal rendered markdown, or as reveal slideshows. This intro is a markdown rendered as a reveal slideshow. {.left}
+### Render as Markdown or Presentation
+Your content is created with Markdown. Kobble supports all common markdown formats (CommonMark, Github, ...), along with some advanced extensions. You can view your creations as either normal rendered markdown, or as presentations. This intro is markdown rendered as a presentation. {.left}
 :::
 
 ::: slide
