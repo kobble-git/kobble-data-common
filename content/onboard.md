@@ -53,5 +53,5 @@ Currently, Kobble stores all user data in  Github Gists, under your account. Sta
 
 ::: slide
 ### Live Editing
-You can edit all of your markdown inline. Click the edit button on the toolbar above and start editing this slidshow! Use the refresh button to update the view when you are ready!  {.left}
+You can edit all of your markdown inline. Click the edit button on the toolbar above and start editing this presentation! Use the refresh button to update the view when you are ready!  {.left}
 :::
