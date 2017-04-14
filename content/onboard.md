@@ -17,24 +17,24 @@ Your content is created with Markdown, so it's easy to create and repurpose as y
 ### Getting Started
 To get started, you need a [Github](https://github.com) account. Don't worry if you don't know what Github is, you only need to create an account. However, we stronly recommend that you learn about [Github](https://github.com). It's an invaluable tool for managing and preserving all kinds of important data. To create a [Github](https://github.com) account, click [here](https://github.com).  {.left}
 
-Once you have your [Github](https://github.com) account, click the Login button above to start Kobble!  {.left}
+Once you have your [Github](https://github.com) account, click the Login button above to start Kobble!   {.left}
 :::
 
 ::: slide
 ### Organizing Your Data
 Kobble let's you organize your data into *Channel Groups*, *Channels*, *Tracks*, and *Items*. 
-::: slide 
+:::: slide 
 A Channel Group is a group of Channels. A Channel is a group of Tracks. A Track is a tree or outline of Items. Items are usually Markdown files, but Kobble also supplies a variety of specialized Items for other purposes.
-:::
-::: slide
+::::
+:::: slide
 This model is both simple and powerful. It let's you organize your data in an infinite number of ways - you decide what's best for you.
-:::
-::: slide
+::::
+:::: slide
 Channel Groups, Channels, Tracks, and Items can be easily shared.
-:::
+::::
 :::
 
 ::: slide
 ### Github Account Details
-Currently, Kobble stores all user data in  Github Gists, under your account. Stay tuned, because we will soon have support for Github public and private repos. 
+Currently, Kobble stores all user data in  Github Gists, under your account. Stay tuned, because we will soon have support for Github public and private repos.  {.left}
 :::
