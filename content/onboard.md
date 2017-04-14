@@ -32,7 +32,7 @@ Kobble let's you organize your data into *Channel Groups*, *Channels*, *Tracks*,
 ::: slide 
 * A Channel Group is a group of Channels. 
 * A Channel is a group of Tracks. 
-* A Track is a tree or outline of Items. Track items in the tree support drag and drop reordering.
+* A Track is a tree or outline of Items. Items in the Track tree support drag and drop reordering.
 * Items are usually Markdown files, but Kobble also supplies a variety of specialized Items for other purposes.
 :::
 
