@@ -21,8 +21,11 @@ Once you have your [Github](https://github.com) account, click the Login button 
 :::
 
 :::: slide
+
+::: slide
 ### Organizing Your Data
 Kobble let's you organize your data into *Channel Groups*, *Channels*, *Tracks*, and *Items*. 
+:::
 
 ::: slide 
 A Channel Group is a group of Channels. A Channel is a group of Tracks. A Track is a tree or outline of Items. Items are usually Markdown files, but Kobble also supplies a variety of specialized Items for other purposes.
