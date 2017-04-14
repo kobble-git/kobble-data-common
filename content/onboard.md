@@ -1,6 +1,6 @@
 ::: slide 
 ### Content Creation
-With Kobble, you can instantly create and organize beautiful content for a variety of purposes, including notes, blogs, wikis, presentations, projects, papers, homework, and more.
+With Kobble, you can instantly create and organize beautiful content for a variety of purposes, including notes, blogs, wikis, presentations, projects, papers, homework, and more. {.left}
 :::
 
 ::: slide
