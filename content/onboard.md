@@ -26,7 +26,7 @@ Once you have your [Github](https://github.com) account, click the *Login with G
 
 ::: slide
 ### Organizing Your Data
-Kobble let's you organize your data into *Channel Groups*, *Channels*, *Tracks*, and *Items*. 
+Kobble let's you organize your data into *Channel Groups*, *Channels*, *Tracks*, and *Items*, similar to YouTube or Spotify. 
 :::
 
 ::: slide 
