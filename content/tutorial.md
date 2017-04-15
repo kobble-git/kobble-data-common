@@ -25,7 +25,9 @@ Select the track you just created by clicking on it. You will see the track appe
 :::
 
 ::: slide 
-Click the ![More](https://kobble.io/static/favicon.ico) icon on the track in the selected tracks pane and select *New Item*.
+Click the ![More](https://kobble.io/static/favicon.ico) icon on the track that was just added to the selected tracks pane. Select *New Item*.
 :::
 
-
+::: slide 
+Select the *Presentation* radio button and add a name, title, and subtitle. Click the *New* button. Your item will be opened and displayed in the content view area. Click the edit button and start editing your presentation!
+:::
