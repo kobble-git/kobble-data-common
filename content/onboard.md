@@ -48,7 +48,7 @@ Channel Groups, Channels, Tracks, and Items can be easily shared.
 
 ::: slide
 ### Github Account Details
-Currently, Kobble stores all user data in  Github Gists, under your account. Stay tuned, because we will soon have support for Github public and private repos.  {.left}
+Currently, Kobble stores all user data in secret Github Gists, under your account. Stay tuned, because we will soon have support for Github public and private repos.  {.left}
 :::
 
 ::: slide
