@@ -35,5 +35,5 @@ Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) icon
 
 ::: slide 
 ### Track Item Dialog
-Select the *Presentation* radio button and add a name, title, and subtitle. Click the *New* button. Your item will be opened and displayed in the content view area. Click the edit button and start editing your presentation! .left}
+Select the *Presentation* radio button and add a name, title, and subtitle. Click the *New* button. Your item will be opened and displayed in the content view area. Click the edit button and start editing your presentation! {.left}
 :::
