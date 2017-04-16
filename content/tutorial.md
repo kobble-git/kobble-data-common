@@ -5,7 +5,7 @@ This tutorial will guide you through the essentials of Kobble to quickly get sta
 
 ::: slide 
 ### Create a Channel
-Click the ![More](https://kobble-view.firebaseapp.com/images/ic_more_vert_white_18dp.png) icon next to *Starter Channels* and select *New Channel*.
+Click the ![More](https://kobble.io/static/ic_more_vert_white_18dp.png) icon next to *Starter Channels* and select *New Channel*.
 :::
 
 ::: slide 
