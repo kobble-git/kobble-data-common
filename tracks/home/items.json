@@ -7,6 +7,25 @@
         "contents": {
           "spec": {
             "owner": "kobble-git",
+            "path": "content/tutorial.md",
+            "repo": "kobble-data-common"
+          }
+          }
+        },
+      "expanded": false,
+      "subtitle": "Tutorial",
+      "title": "Tutorial",
+      "view": {
+        "tag": "UI.ContentViews.Views.RevealView"
+      }
+    },    
+    {
+      "children": [],
+      "data": {
+        "tag": "UI.Track.MarkdownD",
+        "contents": {
+          "spec": {
+            "owner": "kobble-git",
             "path": "content/home.md",
             "repo": "kobble-data-common"
           }
