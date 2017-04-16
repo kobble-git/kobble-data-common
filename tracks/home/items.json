@@ -56,25 +56,6 @@
       "view": {
         "tag": "UI.ContentViews.Views.MarkdownView"
       }
-    },    
-    {
-      "children": [],
-      "data": {
-        "tag": "UI.Track.MarkdownD",
-        "contents": {
-          "spec": {
-            "owner": "kobble-git",
-            "path": "content/hot.md",
-            "repo": "kobble-data-common"
-          }
-          }
-        },
-      "expanded": false,
-      "subtitle": "What's hot on Kobble",
-      "title": "Hot",
-      "view": {
-        "tag": "UI.ContentViews.Views.MarkdownView"
-      }
     }    
   ]
 }
