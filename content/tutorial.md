@@ -1,16 +1,16 @@
 ::: slide 
 ### Tutorial
-This tutorial will guide you through the essentials of Kobble to quickly get started.
+This tutorial will guide you through the essentials of Kobble to quickly get started. {.left}
 :::
 
 ::: slide 
 ### Create a Channel
-Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) icon next to *Starter Channels* and select *New Channel*.
+Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) icon next to *Starter Channels* and select *New Channel*. {.left}
 :::
 
 ::: slide 
 ### Channel Dialog
-Give the channel a name, title, and subtitle in the dialog box. Then click *New*. The channel will appear.
+Give the channel a name, title, and subtitle in the dialog box. Then click *New*. The channel will appear. {.left}
 :::
 
 ::: slide 
@@ -20,7 +20,7 @@ Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) next
 
 ::: slide
 ### Track Dialog
-Give the track a name, title, and subtitle, then click *New*. The track will appear. 
+Give the track a name, title, and subtitle, then click *New*. The track will appear. {.left}
 :::
 
 ::: slide 
