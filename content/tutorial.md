@@ -15,7 +15,7 @@ Give the channel a name, title, and subtitle in the dialog box. Then click *New*
 
 ::: slide 
 ### Create a Track
-Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) next to the channel you just created and select *New Track*. {.left}
+Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) icon next to the channel you just created and select *New Track*. {.left}
 :::
 
 ::: slide
