@@ -15,7 +15,7 @@ Give the channel a name, title, and subtitle in the dialog box. Then click *New*
 
 ::: slide 
 ### Create a Track
-Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) next to the channel you just created and select *New Track*.
+Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) next to the channel you just created and select *New Track*. {.left}
 :::
 
 ::: slide
@@ -25,15 +25,15 @@ Give the track a name, title, and subtitle, then click *New*. The track will app
 
 ::: slide 
 ### Show Track
-Select the track you just created by clicking on it. You will see the empty track appear in the selected tracks pane.
+Select the track you just created by clicking on it. You will see the empty track appear in the selected tracks pane. {.left}
 :::
 
 ::: slide 
 ### Add Item to Track
-Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) icon on the track that was just added to the selected tracks pane. Select *New Item*.
+Click the ![More](https://kobble-view.firebaseapp.com/images/more_vert.png) icon on the track that was just added to the selected tracks pane. Select *New Item*. {.left}
 :::
 
 ::: slide 
 ### Track Item Dialog
-Select the *Presentation* radio button and add a name, title, and subtitle. Click the *New* button. Your item will be opened and displayed in the content view area. Click the edit button and start editing your presentation!
+Select the *Presentation* radio button and add a name, title, and subtitle. Click the *New* button. Your item will be opened and displayed in the content view area. Click the edit button and start editing your presentation! .left}
 :::
