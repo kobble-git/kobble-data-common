@@ -1,4 +1,4 @@
 ## Contact Kobble
 
 Email
-: *hello@kobble.io"
+  ~ hello@kobble.io
