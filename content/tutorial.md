@@ -5,7 +5,7 @@ This tutorial will guide you through the essentials of Kobble to quickly get sta
 
 ::: slide 
 ### Create a Channel
-Click the ![More](css/ic_more_vert_white_18dp.png) icon next to *Starter Channels* and select *New Channel*.
+Click the ![More](https://kobble-view.firebaseapp.com/css/ic_more_vert_white_18dp.png) icon next to *Starter Channels* and select *New Channel*.
 :::
 
 ::: slide 
@@ -15,7 +15,7 @@ Give the channel a name, title, and subtitle in the dialog box. Then click *New*
 
 ::: slide 
 ### Create a Track
-Click the ![More](css/ic_more_vert_white_18dp.png) next to the channel you just created and select *New Track*.
+Click the ![More](https://kobble-view.firebaseapp.com/css/ic_more_vert_white_18dp.png) next to the channel you just created and select *New Track*.
 :::
 
 ::: slide
