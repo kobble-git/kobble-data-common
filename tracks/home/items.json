@@ -35,7 +35,7 @@
       "subtitle": "Kobble Home",
       "title": "Home",
       "view": {
-        "tag": "UI.ContentViews.Views.MarkdownView"
+        "tag": "UI.ContentViews.Views.RevealView"
       }
     },    
     {
