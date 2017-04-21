@@ -17,7 +17,7 @@ Your content is created with Markdown. Kobble supports all common markdown forma
 
 ::: slide
 ### Getting Started
-To get started, you need a [Github](https://github.com) account. Don't worry if you don't know what Github is, you only need to create an account. However, we stronly recommend that you learn about [Github](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [Github](https://github.com) account, click [here](https://github.com).  {.left}
+To get started, you need a [Github](https://github.com) account. Don't worry if you don't know what Github is, you only need to create an account. However, we strongly recommend that you learn about [Github](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [Github](https://github.com) account, click [here](https://github.com).  {.left}
 
 Once you have your [Github](https://github.com) account, click the *Login with Github* button above to start Kobble!   {.left}
 :::
