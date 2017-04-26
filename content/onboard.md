@@ -7,19 +7,19 @@ Kobble is the only app available where you *own* all of your data. (*Click the a
 
 ::: slide
 ### You Own Your Data
-*You own all of your data*. Kobble stores all data on [Github](https://github.com), in *your* account. This gives you complete control over your data. We don't store any data on our servers. In fact, none of your data is even transmitted to our servers. It's all sent directly from your browser to [Github](https://github.com).  {.left}
+*You own all of your data*. Kobble stores all data on [GitHub](https://github.com), in *your* account. This gives you complete control over your data. We don't store any data on our servers. In fact, none of your data is even transmitted to our servers. It's all sent directly from your browser to [GitHub](https://github.com).  {.left}
 ::: 
 
 ::: slide
 ### View Markdown or Presentation
-Your content is created with Markdown. Kobble supports all common markdown formats (CommonMark, Github, ...), along with some advanced extensions. You can view your markdown as either normal rendered markdown, or as presentations. This intro is markdown rendered as a presentation. {.left}
+Your content is created with Markdown. Kobble supports all common markdown formats (CommonMark, GitHub, ...), along with some advanced extensions. You can view your markdown as either normal rendered markdown, or as presentations. This intro is markdown rendered as a presentation. {.left}
 :::
 
 ::: slide
 ### Getting Started
-To get started, you need a [Github](https://github.com) account. Don't worry if you don't know what Github is, you only need to create an account. However, we strongly recommend that you learn about [Github](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [Github](https://github.com) account, click [here](https://github.com).  {.left}
+To get started, you need a [GitHub](https://github.com) account. Don't worry if you don't know what GitHub is, you only need to create an account. However, we strongly recommend that you learn about [GitHub](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [GitHub](https://github.com) account, click [here](https://github.com).  {.left}
 
-Once you have your [Github](https://github.com) account, click the *Login with Github* button above to start Kobble!   {.left}
+Once you have your [GitHub](https://github.com) account, click the *Login with GitHub* button above to start Kobble!   {.left}
 :::
 
 :::: slide
@@ -47,8 +47,8 @@ Channel Groups, Channels, Tracks, and Items can be easily shared.
 ::::
 
 ::: slide
-### Github Account Details
-Currently, Kobble stores all user data in secret Github Gists, under your account. Stay tuned, because we will soon have support for Github public and private repos.  {.left}
+### GitHub Account Details
+Currently, Kobble stores all user data in secret GitHub Gists, under your account. Stay tuned, because we will soon have support for GitHub public and private repos.  {.left}
 :::
 
 ::: slide
