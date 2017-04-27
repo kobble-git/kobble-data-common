@@ -6,8 +6,8 @@ Kobble is the only app available where you *own* all of your data. (*Click the a
 :::
 
 ::: slide
-### You Own Your Data
-*You own all of your data*. Kobble stores all data on [GitHub](https://github.com), in *your* account. This gives you complete control over your data. We don't store any data on our servers. In fact, none of your data is even transmitted to our servers. It's all sent directly from your browser to [GitHub](https://github.com).  {.left}
+### You Control Your Data
+*You control all of your data*. Kobble stores all data on [GitHub](https://github.com), in *your* account. This gives you complete control over your data. We don't store any data on our servers. In fact, none of your data is even transmitted to our servers. It's all sent directly from your browser to [GitHub](https://github.com).  {.left}
 ::: 
 
 ::: slide
