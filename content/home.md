@@ -1,10 +1,10 @@
 ::: slide 
-### Create Markdown Content and Own Your Data
-Kobble is the only app where you own all of your data. With Kobble, you can easily create markown content for a variety of purposes. Kobble stores all of your data on [GitHub](https://github.com) in *your account*. {.left}
+### Create Markdown Content and Control Your Data
+With Kobble, you can easily create markown content for a variety of purposes. Kobble stores all of your data on [GitHub](https://github.com) in *your account*. {.left}
 :::
 
 ::: slide
-### You Own Your Data
+### You Control Your Data
 Kobble store all data on [GitHub](https://github.com) in *your account*. In fact, none of your data is even transmitted to any of our servers. It's all sent directly from your browser to [GitHub](https://github.com). {.left}
 :::
 
@@ -27,4 +27,5 @@ Create an unlimited number of channels to organize your work. {.left}
 Tracks are trees with drag and drop reordering of items. Items are markdown documents, presentations, and other specialized views supported by Kobble. {.left}
 :::
 ::::
+
 
