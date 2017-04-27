@@ -5,7 +5,11 @@ With Kobble, you can easily create markown content for a variety of purposes. Ko
 
 ::: slide
 ### You Control Your Data
-Kobble store all data on [GitHub](https://github.com) in *your account*. In fact, none of your data is even transmitted to any of our servers. It's all sent directly from your browser to [GitHub](https://github.com). {.left}
+Kobble store all data on [GitHub](https://github.com) in *your account*. In fact, none of your data is even transmitted to any of our servers. It's all sent directly from your browser to [GitHub](https://github.com). {.left} 
+
+Currently, Kobble stores all user data in GitHub Gists, under your account. Gists are not private, and are suitable for content that you want to share. {.left} 
+
+Stay tuned, because we will soon have support for GitHub private repos, which can be used for data that you want to keep private.  {.left}
 :::
 
 ::: slide 
