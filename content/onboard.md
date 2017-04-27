@@ -37,7 +37,7 @@ Kobble lets you organize your data into *Channel Groups*, *Channels*, *Tracks*, 
 :::
 
 ::: slide
-This model is both simple and powerful. It lets you organize your data in an infinite number of ways — you decide what's best for you.
+This model is both simple and powerful. It lets you organize your data in an infinite number of ways. You decide what's best for you.
 :::
 
 ::: slide
