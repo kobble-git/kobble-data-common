@@ -1,8 +1,6 @@
 ::: slide 
 ### Try Kobble
-With Kobble, you can instantly create and organize beautiful content for a variety of purposes, including notes, blogs, wikis, presentations, slideshows, projects, papers, homework, and more. {.left}
-
-Kobble is the only app available where you *own* all of your data. (*Click the arrow below to see more.*) {.left}
+With Kobble, you can instantly create and organize beautiful content for a variety of purposes, including notes, blogs, wikis, presentations, slideshows, projects, papers, homework, and more. (*Click the arrow below to see more.*) {.left}
 :::
 
 ::: slide
@@ -48,7 +46,9 @@ Channel Groups, Channels, Tracks, and Items can be easily shared.
 
 ::: slide
 ### GitHub Account Details
-Currently, Kobble stores all user data in secret GitHub Gists, under your account. Secret gists are not private. Stay tuned, because we will soon have support for GitHub public and private repos.  {.left}
+Currently, Kobble stores all user data in GitHub Gists, under your account. Gists are not private, and are suitable for content that you want to share. {.left} 
+
+Stay tuned, because we will soon have support for GitHub private repos, which can be used for data that you want to keep private.  {.left}
 :::
 
 ::: slide
