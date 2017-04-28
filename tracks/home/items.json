@@ -7,6 +7,25 @@
         "contents": {
           "spec": {
             "owner": "kobble-git",
+            "path": "content/notices.md",
+            "repo": "kobble-data-common"
+          }
+          }
+        },
+      "expanded": false,
+      "subtitle": "Notices (1 New)",
+      "title": "Notices",
+      "view": {
+        "tag": "UI.ContentViews.Views.MarkdownView"
+      }
+    },    
+    {
+      "children": [],
+      "data": {
+        "tag": "UI.Track.MarkdownD",
+        "contents": {
+          "spec": {
+            "owner": "kobble-git",
             "path": "content/tutorial.md",
             "repo": "kobble-data-common"
           }
