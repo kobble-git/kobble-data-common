@@ -13,13 +13,6 @@ With Kobble, you can instantly create and organize beautiful content for a varie
 Your content is created with Markdown. Kobble supports all common markdown formats (CommonMark, GitHub, ...), along with some advanced extensions. You can view your markdown as either normal rendered markdown, or as presentations. This intro is markdown rendered as a presentation. {.left}
 :::
 
-::: slide
-### Getting Started
-To get started, you need a [GitHub](https://github.com) account. Don't worry if you don't know what GitHub is, you only need to create an account. However, we strongly recommend that you learn about [GitHub](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [GitHub](https://github.com) account, click [here](https://github.com).  {.left}
-
-Once you have your [GitHub](https://github.com) account, click the *Login with GitHub* button above to start Kobble!   {.left}
-:::
-
 :::: slide
 
 ::: slide
@@ -45,10 +38,13 @@ Channel Groups, Channels, Tracks, and Items can be easily shared.
 ::::
 
 ::: slide
-### GitHub Account Details
-Currently, Kobble stores all user data in GitHub Gists, under your account. Gists are not private, and are suitable for content that you want to share. {.left} 
+### Getting Started With 
+To get started, you need a [GitHub](https://github.com) account. Don't worry if you don't know what GitHub is, you only need to create an account. However, we strongly recommend that you learn about [GitHub](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [GitHub](https://github.com) account, click [here](https://github.com).  {.left}
 
-Stay tuned, because we will soon have support for GitHub private repos, which can be used for data that you want to keep private.  {.left}
+Kobble stores all user data in your GitHub account. The toolbar has 3 GitHub login buttons: {.left}
+* Gists Only - All data is stored in Secret Gists
+* Public Repo - All data is stored in a public repo called *kobble-data*. Kobble will create and initialize this repo.
+* Private Repo - All data is stored in a private repo called *kobble-data*. Kobble will create and initialize this repo.
 :::
 
 ::: slide
