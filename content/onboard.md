@@ -38,9 +38,12 @@ Channel Groups, Channels, Tracks, and Items can be easily shared.
 ::::
 
 ::: slide
-### Getting Started With 
-To get started, you need a [GitHub](https://github.com) account. Don't worry if you don't know what GitHub is, you only need to create an account. However, we strongly recommend that you learn about [GitHub](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [GitHub](https://github.com) account, click [here](https://github.com).  {.left}
+### Getting Started
+To get started, you need a [GitHub](https://github.com) account. Don't worry if you don't know what GitHub is, you only need to create an account. However, we strongly recommend that you learn about [GitHub](https://github.com). It's an invaluable tool for managing and preserving important data. To create a [GitHub](https://github.com) account, click [here](https://github.com). Continue to the next slide to see how to login.  {.left}
+:::
 
+::: slide 
+### Login With GitHub
 Kobble stores all user data in your GitHub account. The toolbar has 3 GitHub login buttons: {.left}
 * Gists Only - All data is stored in Secret Gists
 * Public Repo - All data is stored in a public repo called *kobble-data*. Kobble will create and initialize this repo.
