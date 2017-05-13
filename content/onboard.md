@@ -45,9 +45,9 @@ To get started, you need a [GitHub](https://github.com) account. Don't worry if 
 ::: slide 
 ### Login With GitHub
 Kobble stores all user data in your GitHub account. The toolbar has 3 GitHub login buttons: {.left}
-* Gists Only - All data is stored in Secret Gists
 * Public Repo - All data is stored in a public repo called *kobble-data*. Kobble will create and initialize this repo.
 * Private Repo - All data is stored in a private repo called *kobble-data*. Kobble will create and initialize this repo.
+* Gists Only - All data is stored in Secret Gists. If you know what this means, you can use this option. Otherwise, use a public or private repo.
 :::
 
 ::: slide
