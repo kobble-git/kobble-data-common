@@ -1,5 +1,5 @@
 ### Kobble updated on 29 May 2017 3:52 AM NZDT - UI Changes
-The channel and track views were consolicated into a left nav. When you select a channel, the selected tracks will appear in the same left nav, similar to an ios navigation. You can switch between the channel and track view using an icon on the toolbar menu.
+The channel and track views were consolicated into a left nav. When you select a channel, the selected tracks will appear in the same left nav, similar to an ios navigation. You can switch between the channel and track view using an icon button on the toolbar menu.
 
 Some browsers may require a *hard refresh* to pick up the new uncached version. See this [link](https://www.getfilecloud.com/blog/2015/03/tech-tip-how-to-do-hard-refresh-in-browsers/#.WQL1eoiGNhE) for more information.
 
